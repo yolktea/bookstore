@@ -11,7 +11,7 @@ The website consists the following pages:
 * Order confirmation.
 
 ## Preview
-![alt text](2.1.png)
+![alt text](2.1.PNG)
 ![alt text](2.2.png)
 ![alt text](2.3.png)
 ![alt text](2.4.png)
