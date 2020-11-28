@@ -1,0 +1,114 @@
+body{
+    background-color: #5D0C1D;
+}
+h1{
+    margin: 50px;
+    font-size:350%;
+    color: #CCB38D;
+    display: inline;
+    font-family: 'Architects Daughter', cursive;
+}
+h2{
+    font-family: monospace;
+    color: lavender;
+    float: left;
+    font-size: 200%;
+}
+#logo{
+    height: 240px;
+    float: left;
+    
+} 
+.topnav button
+{cursor: pointer;
+}
+   
+.login{
+    float: right;
+    cursor: pointer;
+}
+.signup{
+    cursor: pointer;
+}
+table{
+    float: left;
+    border: black;
+    border-radius: 10px;
+}
+#profile{
+        border-radius: 50%;
+        height: 40px;
+        float: right;
+        
+        margin-right: 20px;
+     }
+#cart{
+    height: 10px;
+    
+    padding: 20px;
+    margin: 30px;
+}
+p{
+    display: inline;
+    margin: 50px;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.topnav
+{
+    height: 20px;
+    width: 1000px;
+}
+td{
+    border: 1px solid black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+}
+#books,#bestsellers,#new{
+
+    padding-left: 150px;
+    align-content: center;
+    padding-right: 30px;
+
+
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 250px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-image: url("bb.jpg");
+}
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    align-items: center;
+    border: none;
+    margin: 0;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    float: left;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  hr { 
+    
+    float: left;
+  } 
+ .catalog td{
+     border: 2px solid black;
+
+ }
