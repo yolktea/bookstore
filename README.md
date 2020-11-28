@@ -12,7 +12,7 @@ The website consists the following pages:
 
 ## Preview
 ![alt text](2.1.PNG)
-![alt text](2.2.png)
-![alt text](2.3.png)
-![alt text](2.4.png)
-![alt text](2.5.png)
+![alt text](2.2.PNG)
+![alt text](2.3.PNG)
+![alt text](2.4.PNG)
+![alt text](2.5.PNG)
