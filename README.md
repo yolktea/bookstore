@@ -1,6 +1,6 @@
 # Bookstore Website
 
-Web page built using HTML, CSS and JavaScript. It contains static pages of an online Book store. \
+Web page built using HTML and CSS. It contains static pages of an online Book store. <br>
 The website consists the following pages:
 * Home page 
 * Registration and user Login
